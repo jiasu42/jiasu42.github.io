@@ -19,10 +19,58 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 08 Oct 2022 07:37:35 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 07:48:47 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://jiasu42.github.io/rss.xml" />
         
+        
+            <item>
+                <title>我喜欢的书籍（2022/10）</title>
+                <link>https://jiasu42.github.io/posts/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2%E7%9A%84%E8%AF%9D/</link>
+                <guid isPermaLink="true">https://jiasu42.github.io/posts/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2%E7%9A%84%E8%AF%9D/</guid>
+                <pubDate>Thu, 06 Oct 2022 16:41:29 &#43;0800</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h1 id=&#34;写在前面的话&#34;&gt;写在前面的话&lt;/h1&gt;
+&lt;h2 id=&#34;为什么这段话没有放在关于里而是单独一篇文章&#34;&gt;为什么这段话没有放在“关于”里而是单独一篇文章&lt;/h2&gt;
+&lt;p&gt;我在本地时是放在关于页面的...但不知道为什么上传后就跳转不过去了，先临时补救一下。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;为什么建立这个网站&#34;&gt;为什么建立这个网站&lt;/h2&gt;
+&lt;p&gt;因为正好十一前跟两个同学聊天，他们都在做建立个人网站的事，一个已经建好了，正在完善，另一个打算十一期间建好，我的十一既然不打算回家了，正好也学习弄一下，顺便做一些计算机和写作复健&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;为什么用这个平台&#34;&gt;为什么用这个平台&lt;/h2&gt;
+&lt;p&gt;我是用notion和GitHub pages + hugo 做了两版，因为我的这两个朋友都提到notion有点乱，不过我觉得还好，这两版内容一样，只有UI不同，顺便也测试一下网络稳定性和那种更好看。&lt;/p&gt;
+&lt;p&gt;两版的地址分别是&lt;a href=&#34;https://www.notion.so/jiasu-wiki-69520dcf682a42ef97048fb01f8308c8&#34;&gt;notion版&lt;/a&gt;和&lt;a href=&#34;https://jiasu42.github.io/&#34;&gt;hugo版&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=#ff0000&gt;请告诉我哪版更好看！！！（以及是否有哪一版无法登录）&lt;del&gt;当然我知道hugo版还有各种bug&lt;/del&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;这个网站包含了什么内容&#34;&gt;这个网站包含了什么内容&lt;/h2&gt;
+&lt;p&gt;包含了个别几篇我之前在其他平台（qq空间？）的文章，目前只搬运了3篇用来测试&lt;/p&gt;
+&lt;p&gt;包含还有我的爱好部分，这部分内容会多一些，详见下文&lt;/p&gt;
+&lt;p&gt;这个网站不会包含涉及工作相关的东西&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;爱好部分具体是什么&#34;&gt;爱好部分具体是什么&lt;/h2&gt;
+&lt;p&gt;主要是我的一些作品推荐和成长回忆。&lt;/p&gt;
+&lt;p&gt;目前书籍、动漫、游戏、音乐这四类比较完善。影视、美食、测试和词典四类只放了几个范例测试。&lt;/p&gt;
+&lt;p&gt;我的挑选依据是，1.很多童年时看的作品会有加分，但我尽量控制。2.剔除了一些太大众的作品，一方面，它们无需我再推荐；另一方面，大家都喜欢的作品无法为推荐算法贡献什么。很难说喜欢《哈利波特》的人还喜欢什么，但一个喜欢《哈利波特与理性之道》（一本哈利波特的同人小说）的读者很可能会喜欢《哈利波特与天然20》（另一本哈利波特的同人小说）。3.对于非常小众，褒贬不一，电波向的作品，会有加分。&lt;/p&gt;
+&lt;p&gt;在每个分类中，我打算推荐42个作品，在更新时每添加一个就删除一个，并在每个分类中挑出10个非常推荐的作品。原本我想每篇都写一个不少于1000字的小作文，现在发现一共写了也不到10篇，有几篇还只写到一半，目前没法放上来。&lt;/p&gt;
+&lt;p&gt;在第一列，我设计了一个辅助标签，标注了top10和我写了小作文的作品，最终的设想是这两个标签可以合成一个。（书籍、游戏、音乐分类下都只有一篇有了小作文）&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;我的更新计划&#34;&gt;我的更新计划&lt;/h2&gt;
+&lt;p&gt;我设想每周更新一篇1000字关于作品推荐的小作文。但我没想好是否每周放上来。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>阿里巴巴与四十大盗新编上</title>
