@@ -7,7 +7,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>西贝西米大魔王的百科全书</title>
+        <title>jiasu wiki</title>
         <link>https://jiasu42.github.io/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.104.2 https://gohugo.io/</generator>
@@ -19,7 +19,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 08 Oct 2022 07:34:06 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 07:37:35 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://jiasu42.github.io/rss.xml" />
         
