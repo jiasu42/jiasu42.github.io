@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">jiasu wiki</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-10-08T07:51:43&#43;08:00</updated>
+    <updated>2022-10-08T07:53:42&#43;08:00</updated>
     <id>https://jiasu42.github.io/</id>
     <link rel="alternate" type="text/html" href="https://jiasu42.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://jiasu42.github.io/atom.xml" />
@@ -12,18 +12,17 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.104.2">Hugo</generator>
         <entry>
-            <title type="text">我喜欢的书籍（2022/10）</title>
+            <title type="text">写在前面的话</title>
             <link rel="alternate" type="text/html" href="https://jiasu42.github.io/posts/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2%E7%9A%84%E8%AF%9D/" />
             <id>https://jiasu42.github.io/posts/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2%E7%9A%84%E8%AF%9D/</id>
-            <updated>2022-10-08T07:48:40&#43;08:00</updated>
+            <updated>2022-10-08T07:53:10&#43;08:00</updated>
             <published>2022-10-06T16:41:29&#43;08:00</published>
             <author>
                     <uri>https://jiasu42.github.io/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">写在前面的话 为什么这段话没有放在“关于”里而是单独一篇文章 我在本地时是放在关于页面的……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">为什么这段话没有放在“关于”里而是单独一篇文章 我在本地时是放在关于页面的...但不知……</summary>
             
-                <content type="html">&lt;h1 id=&#34;写在前面的话&#34;&gt;写在前面的话&lt;/h1&gt;
-&lt;h2 id=&#34;为什么这段话没有放在关于里而是单独一篇文章&#34;&gt;为什么这段话没有放在“关于”里而是单独一篇文章&lt;/h2&gt;
+                <content type="html">&lt;h2 id=&#34;为什么这段话没有放在关于里而是单独一篇文章&#34;&gt;为什么这段话没有放在“关于”里而是单独一篇文章&lt;/h2&gt;
 &lt;p&gt;我在本地时是放在关于页面的...但不知道为什么上传后就跳转不过去了，先临时补救一下。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;为什么建立这个网站&#34;&gt;为什么建立这个网站&lt;/h2&gt;
